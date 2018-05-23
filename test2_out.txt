@@ -1,0 +1,12 @@
+Reminder
+===============
+
+* Time-related maintenance coming soon...
+Jeep: 2 (CAR0006, CAR0007)
+* Distance-related maintenance coming soon...
+Peugeot: 1 (CAR0005)
+* Write-off coming soon...
+BMW: 1 (CAR0002)
+Honda: 1 (CAR0004)
+Mercedes-Benz: 1 (CAR0003)
+Volkswagen: 1 (CAR0001)
