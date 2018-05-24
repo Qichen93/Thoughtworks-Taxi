@@ -1,18 +1,13 @@
-﻿生成启动时间为 2018/5/23 21:08:25。
+﻿生成启动时间为 2018/5/24 11:47:55。
      1>项目“D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Taxi\Taxi.vcxproj”在节点 2 上(Build 个目标)。
      1>ClCompile:
-         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
-         main.cpp
-     1>d:\找工作\2018春招\thoughtworks作业\出租车\taxi\taxi\main.cpp(125): warning C4018: “<”: 有符号/无符号不匹配
-     1>d:\找工作\2018春招\thoughtworks作业\出租车\taxi\taxi\main.cpp(160): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : 参见“freopen”的声明
-     1>d:\找工作\2018春招\thoughtworks作业\出租车\taxi\taxi\main.cpp(161): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
-                 g:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(226) : 参见“freopen”的声明
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main1.cpp
+         main1.cpp
        Link:
-         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Debug\Taxi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Debug\Taxi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Debug\Taxi.lib" /MACHINE:X86 Debug\main.obj
+         G:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Debug\Taxi.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Debug\Taxi.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Debug\Taxi.lib" /MACHINE:X86 Debug\main1.obj
          Taxi.vcxproj -> D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Debug\Taxi.exe
      1>已完成生成项目“D:\找工作\2018春招\Thoughtworks作业\出租车\Taxi\Taxi\Taxi.vcxproj”(Build 个目标)的操作。
 
 生成成功。
 
-已用时间 00:00:00.90
+已用时间 00:00:03.58
